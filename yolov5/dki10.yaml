@@ -1,0 +1,15 @@
+names:
+- "\uAC00\uB9AC\uBE44\uAD6C\uC774"
+- "\uAC00\uC790\uBBF8\uAD6C\uC774"
+- "\uAC00\uC790\uBBF8\uC870\uB9BC"
+- "\uAC00\uC9C0\uB098\uBB3C"
+- "\uAC00\uC9C0\uB0C9\uAD6D"
+- "\uAC00\uC9C0\uBCF6\uC74C"
+- "\uAC00\uC9C0\uC804"
+- "\uAC00\uC9C0\uCC1C"
+- "\uAC10"
+- "\uAC1C\uBD88"
+
+nc: 10
+train: /content/yolov5/train.txt
+val: /content/yolov5/val.txt
